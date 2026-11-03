@@ -27,3 +27,4 @@ requests
 email-validator
 
 bcrypt==4.0.1
+psycopg[binary]
